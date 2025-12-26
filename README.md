@@ -6,7 +6,11 @@
 
 ## Project Overview
 
-**EDUTRANSIT** is a web-based School Bus Route Management and Simulation System developed as part of an undergraduate thesis. The system is designed to model, manage, and simulate school bus routes within **Iligan City**, addressing the lack of a dedicated school bus system by providing optimized routing solutions using graph theory and mapping technologies.
+**EDUTRANSIT** is a web-based School Bus Route Management and Simulation System developed as part of an undergraduate thesis aimed at **optimizing student transportation in Iligan City using graph theory and real-world road network mapping**.  
+
+This study focuses on generating and simulating **optimal school bus routes** for five selected tertiary institutions: **Mindanao State University – Iligan Institute of Technology (MSU-IIT)**, **St. Michael’s College (SMC)**, **Adventist Medical Center College (AMCC)**, **St. Peter’s College (SPC)**, and **Iligan Medical Center College (IMCC)**. These institutions represent both **public and private schools within the city**, chosen due to the **high prevalence of student transportation challenges** in their locations.  
+
+The system enables administrators and users to **model, manage, visualize, and simulate efficient bus routes**, supporting future implementation of a dedicated school bus transit solution through **shortest-path computation, interactive mapping (Leaflet + OpenStreetMap), and OSRM-based travel time simulation**.
 
 The system supports **two user roles**: **Admin** and **Regular User**, each with specific functionalities.
 
@@ -155,6 +159,21 @@ Relationships are enforced using **foreign keys** to maintain data integrity.
 * User logs out
 * Session is destroyed
 * User is redirected to login page
+
+### Entity Relationship Diagram (ERD)
+<p align="center">
+  <img src="ERD.png" alt="Entity Relationship Diagram" width="650">
+</p>
+
+### System Flowchart
+<p align="center">
+  <img src="Flowchart.png" alt="System Flowchart Diagram" width="650">
+</p>
+
+### System Architecture Diagram
+<p align="center">
+  <img src="SysArchi.png" alt="System Architecture Diagram" width="650">
+</p>
 
 ---
 
