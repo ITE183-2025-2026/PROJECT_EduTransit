@@ -188,6 +188,14 @@ Relationships are enforced using **foreign keys** to maintain data integrity.
 
 ---
 
+## Demo Video
+
+Access our system demonstration video here:
+
+🔗 **[View Demo Video on Google Drive](https://drive.google.com/drive/folders/13fITKG4xhPzQ_hL1QWm7vXxqS7F0OiiQ)**
+
+---
+
 ## Authors
 <p align="center">
   <strong>Project Leader</strong><br>
@@ -205,3 +213,4 @@ Relationships are enforced using **foreign keys** to maintain data integrity.
 ## License
 
 This project is for **academic and research purposes only**.
+
