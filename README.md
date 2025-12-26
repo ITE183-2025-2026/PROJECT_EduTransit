@@ -190,15 +190,18 @@ Relationships are enforced using **foreign keys** to maintain data integrity.
 
 ## Authors
 <p align="center">
-  <strong>Alieza Amor Atienda</strong><br>
-  <strong>April Grace Sagadrata</strong><br>
-  <strong>Cristine Obinsa</strong><br><br>
+  <strong>Project Leader</strong><br>
+  Alieza Amor Atienda<br><br>
+  <strong>Members</strong><br>
+  April Grace Sagadrata<br>
+  Cristine Obinsa<br><br>
   Bachelor of Science in Information Technology<br>
   Mindanao State University – Iligan Institute of Technology
 </p>
 
+
 ---
 
-## 📄 License
+## License
 
 This project is for **academic and research purposes only**.
